@@ -13,3 +13,15 @@ Open source simulator **Icarus verilog** – intro
 
 **Sky130 PDK** – hands-on labs
 
+---
+# Simulator
+
+A simulator is a tool used in RTL design flow to run Verilog/VHDL code and observe its behavior before hardware implementation.
+
+- It models how the circuit reacts to inputs over time.
+- <mark>Output changes only when inputs or internal states (flip-flops, registers) change.</mark>
+- Helps to debug design and verify logic correctness.
+- Examples-: **Icarus Verilog (iverilog).**
+- Purpose-: Catch functional errors early, long before synthesis and fabrication.
+  
+
