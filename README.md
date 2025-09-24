@@ -1,1 +1,1 @@
-# RTL-Design-And-Synthesis-using-Sky130
+# RTL Design And Synthesis Using Sky130
